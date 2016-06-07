@@ -1,0 +1,1 @@
+This is a minimal example for creating a B-spline surface in an Autodesk Inventor addin.

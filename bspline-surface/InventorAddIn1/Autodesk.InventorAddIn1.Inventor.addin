@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 19.0-->
+  <ClassId>{f9132243-0bb0-41dc-8ce7-c2e0042bb5c5}</ClassId>
+  <ClientId>{f9132243-0bb0-41dc-8ce7-c2e0042bb5c5}</ClientId>
+  <DisplayName>InventorAddIn1</DisplayName>
+  <Description>InventorAddIn1</Description>
+  <Assembly>E:\inventor-code-samples\bspline-surface\InventorAddIn1\bin\Release\InventorAddIn1.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>18..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
