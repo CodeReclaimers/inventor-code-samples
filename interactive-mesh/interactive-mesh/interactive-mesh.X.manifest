@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="interactive_mesh" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{0b3929a0-ba85-4215-83d8-844c130e6d0f}" progid="interactive_mesh.StandardAddInServer" threadingModel="Both" name="interactive_mesh.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="interactive_mesh.dll" hashalg="SHA1"></file>
+
+</assembly>
